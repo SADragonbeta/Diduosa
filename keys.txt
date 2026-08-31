@@ -1,0 +1,8 @@
+# Diduo Bot - License Keys
+# Format: KEY|TYPE|EXPIRY_DATE
+# TYPE: WEEKLY or MONTHLY
+# DATE: YYYY-MM-DD
+# Lines starting with # are comments
+# -----------------------------------
+Gamal-WEEKLY-A3F9K2|WEEKLY|2026-09-07
+Gamal-MONTHLY-X7Z1P4|MONTHLY|2026-09-30
