@@ -5,5 +5,5 @@
 # Lines starting with # are comments
 # -----------------------------------
 Gamal-WEEKLY-A3F9K2|WEEKLY|2026-09-07
-Gamal-Years-X7Z1P4|MONTHLY|2029-09-30
+Gamal-Years-X7Z1P4|MONTHLY|2026-09-30
 Gamal-MONTHLY-KRTHLA
