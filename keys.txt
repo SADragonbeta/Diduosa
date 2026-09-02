@@ -6,4 +6,5 @@
 # -----------------------------------
 Gamal-WEEKLY-A3F9K2|WEEKLY|2026-09-07
 Gamal-Years-X7Z1P4|MONTHLY|2026-09-30
+Gamal-WEEKLY-CV14K1|WEEKLY|2026-09-03
 Gamal-MONTHLY-KRTHLA
